@@ -32,8 +32,8 @@ const contactInfo = [
   {
     icon: "✉️",
     label: "E-posta",
-    value: "info@arenasteel.com",
-    href: "mailto:info@arenasteel.com",
+    value: "bilgi@arenasteel.com.tr",
+    href: "mailto:bilgi@arenasteel.com.tr",
   },
 ];
 
