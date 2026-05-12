@@ -64,7 +64,7 @@ export default function ReferanslarPage() {
             </div>
           )}
 
-          {/* Yeni proje ekleme notu */}
+          {/* Yeni proje ekleme notu 
           <AnimatedSection delay={0.4}>
             <div style={{
               marginTop: "4rem",
@@ -79,7 +79,7 @@ export default function ReferanslarPage() {
                 yeniden adlandırın ve frontmatter bilgilerini doldurun. Değişiklikler otomatik olarak bu sayfada görünür.
               </p>
             </div>
-          </AnimatedSection>
+          </AnimatedSection>*/}
         </div>
       </section>
     </>

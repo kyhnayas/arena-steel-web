@@ -65,8 +65,8 @@ export default function Footer() {
               <a href="tel:+905369170785" style={{ color: "rgba(255,255,255,0.7)", textDecoration: "none", fontSize: "0.875rem", display: "flex", alignItems: "center", gap: "0.5rem" }}>
                 <span>📞</span> 0536 917 07 85 — Mertcan Koç
               </a>
-              <a href="mailto:info@arenasteel.com" style={{ color: "rgba(255,255,255,0.7)", textDecoration: "none", fontSize: "0.875rem", display: "flex", alignItems: "center", gap: "0.5rem" }}>
-                <span>✉️</span> info@arenasteel.com
+              <a href="mailto:bilgi@arenasteel.com.tr" style={{ color: "rgba(255,255,255,0.7)", textDecoration: "none", fontSize: "0.875rem", display: "flex", alignItems: "center", gap: "0.5rem" }}>
+                <span>✉️</span> bilgi@arenasteel.com.tr
               </a>
               <p style={{ color: "rgba(255,255,255,0.7)", fontSize: "0.875rem", display: "flex", alignItems: "flex-start", gap: "0.5rem" }}>
                 <span>📍</span> Kozluk Mah. Sanayi Cad. No:6 Erenler / Sakarya
