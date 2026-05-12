@@ -40,10 +40,11 @@ export default function Footer() {
                 alignItems: "center",
                 justifyContent: "center",
               }}>
-                <svg width="22" height="22" viewBox="0 0 24 24" fill="none">
-                  <path d="M12 2L2 7v10l10 5 10-5V7L12 2z" stroke="#fff" strokeWidth="1.8" strokeLinejoin="round" />
-                  <path d="M12 2v15M2 7l10 5 10-5" stroke="#fff" strokeWidth="1.8" strokeLinejoin="round" />
-                </svg>
+                <img
+                  src="/images/logos/logo.svg"
+                  alt="Logo"
+                  style={{ width: "20px", height: "20px" }}
+                />
               </div>
               <div>
                 <span style={{ fontWeight: 800, fontSize: "1.125rem", color: "#fff", letterSpacing: "-0.01em", display: "block", lineHeight: 1.1 }}>

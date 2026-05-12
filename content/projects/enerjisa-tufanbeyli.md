@@ -1,7 +1,7 @@
 ---
 title: "Tufanbeyli Safe Guard Yapımı ve Baypas Hattı"
 client: "Enerjisa"
-year: 2020
+year: 2018
 image: "/images/site/05.jpeg"
 tags: ["Endüstriyel İmalat", "Baypas Hattı", "Montaj", "Devreye Alma"]
 description: "Enerjisa bünyesinde Tufanbeyli Safe Guard yapımı, baypas hattı tasarımı, imalatı, montajı ve devreye alınması projesinin tüm çelik imalat süreçleri."

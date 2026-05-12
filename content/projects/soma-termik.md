@@ -1,7 +1,7 @@
 ---
 title: "Manisa Soma Kolin Termik Santral Çelik İşleri"
 client: "Kolin İnşaat"
-year: 2017
+year: 2016
 image: "/images/projects/soma/01.jpeg"
 tags: ["Termik Santral", "Çelik İskelet", "Endüstriyel"]
 description: "Manisa Soma Kolin Termik Santralinde çelik iskelet ve endüstriyel yapı imalat çalışmaları."

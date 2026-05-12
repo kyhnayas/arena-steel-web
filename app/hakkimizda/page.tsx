@@ -12,10 +12,10 @@ export const metadata: Metadata = {
 
 const milestones = [
   { year: "2014", text: "Arena Steel, Sakarya Erenler'de kuruldu." },
-  { year: "2016", text: "OHL Construction ile Gebze-Pendik Metro projesi tamamlandı." },
-  { year: "2018", text: "Avrasya Tüneli sekment imalatı ve sismik deprem kutuları projesi." },
-  { year: "2020", text: "Enerjisa Tufanbeyli Safe Guard yapımı ve baypas hattı projesi." },
-  { year: "2022", text: "Zorlu Center ve Meydan54 çatı imalat projeleri." },
+  { year: "2014", text: "OHL Construction ile Gebze-Pendik Metro projesi tamamlandı." },
+  { year: "2015", text: "Avrasya Tüneli sekment imalatı ve sismik deprem kutuları projesi." },
+  { year: "2016", text: "Zorlu Center ve Meydan54 çatı imalat projeleri." },
+  { year: "2018", text: "Enerjisa Tufanbeyli Safe Guard yapımı ve baypas hattı projesi." },
   { year: "2024", text: "4.000 m² üretim alanına ulaşıldı, kapasite genişletildi." },
 ];
 

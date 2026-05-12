@@ -1,7 +1,7 @@
 ---
 title: "Avrasya Tüneli Sekment İmalatı ve Sismik Deprem Kutuları"
 client: "Yapı Merkezi"
-year: 2018
+year: 2015
 image: "/images/site/03.jpeg"
 tags: ["Sekment İmalatı", "Sismik Kutu", "Tünel", "Özel İmalat"]
 description: "Yapı Merkezi bünyesinde Avrasya Tüneli beton sekmentlerinin çelik kalıp imalatı ve sismik deprem kutularının üretimi."

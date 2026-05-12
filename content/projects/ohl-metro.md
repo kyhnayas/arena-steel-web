@@ -1,7 +1,7 @@
 ---
 title: "Gebze–Pendik Metro İstasyonları İmalat ve Montaj"
 client: "OHL Construction"
-year: 2016
+year: 2014
 image: "/images/site/01.jpeg"
 tags: ["Metro", "Çelik Konstrüksiyon", "İmalat", "Montaj"]
 description: "OHL Construction ile Gebze-Pendik metro hattı istasyonlarının çelik konstrüksiyon imalatı ve montaj çalışmaları."
